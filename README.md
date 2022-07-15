@@ -1,11 +1,11 @@
 ### Hello I'm Maria!💕
- I'm currently studying to be a web dev developing skills with html css and java script.
+ I'm currently studying to be a web dev improving skills with html css and java script.
  I'm in the initial process but with a lot of dedication and desire to learn.
  
  <div align="center">
-  <a href="https://github.com/MariElisBorges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariElisBorges&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariElisBorges&layout=compact&langs_count=7&theme=cobalt"/>
+ <a href="https://github.com/MariElisBorges">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariElisBorges&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariElisBorges&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
  
